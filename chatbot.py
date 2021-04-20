@@ -379,8 +379,8 @@ elif categories== 'Chat NAO!':
             wishMe()
 
         else:
-            app_id = "RKVG28-X4QQHAQ2LK"
-            client = wolframalpha.Client("RKVG28-X4QQHAQ2LK")
+            app_id = "Enter Wolframalpha API id"
+            client = wolframalpha.Client("Enter Wolframplpha api key")
             res = client.query(choice)
             answer = next(res.results).text
             append_file(f"You asked me {choice} ")
