@@ -8,4 +8,5 @@
  
  
 # Demo Video
-<a href="https://youtu.be/bir4pzroIvw" title="Chat NAO demo"><img src="{image-url}" alt="Alternate Text" /></a>
+Click the below image for video
+<a href="https://youtu.be/bir4pzroIvw" title="Chat NAO demo"><img src="video.png" alt="Alternate Text" /></a>
