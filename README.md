@@ -8,4 +8,4 @@
  
  
 # Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bir4pzroIvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/bir4pzroIvw" title="Chat NAO demo"><img src="{image-url}" alt="Alternate Text" /></a>
