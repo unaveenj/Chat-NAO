@@ -32,15 +32,7 @@ This chatbot utilizes a blend of AI technologies including IBM's Tone Analyzer, 
 3. **API Keys**: Obtain necessary API keys for IBM Watson, News API, and Wolfram Alpha, and update them in the respective sections of the script.
 4. **Streamlit**: Run the application using the Streamlit command `streamlit run app.py`.
 
-## Usage
-
-Navigate to the web application's URL provided by Streamlit after running the application. Use the sidebar to select between different functionalities such as the Tone Analyzer, Wikipedia Summary, Chat, or Mask Detection. Interact with the chatbot through the input fields and buttons provided in the interface.
-
-## Contributions
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](#) if you want to contribute.
-
-## Instructions 
+## Usage 
 
  - Step 1. Get API codes for IBM watson , Wolfralpha and NewsAPI and fill them respectively in chatbot.py
  - Step 2. With the necessary libraries installed , got to anaconda prompt or cmd and type streamlit run chatbot.py
